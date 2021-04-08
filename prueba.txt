@@ -1,10 +1,7 @@
 Hola uwu
-
 Buena buenas
-Esto es una prueba.
 
-Fecha de hoy 01/04/2021
+Esto es una prueba.
+Fecha de hoy 08/04/2021
 
 Comenzando con Git.
-
-git show agregado
