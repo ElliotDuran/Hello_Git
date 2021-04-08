@@ -18,7 +18,7 @@ def recursive_factorial(n):
 
 
 if __name__ == '__main__':
-    number = 40
+    number = 50
 
     n = factorial(number)
     print(n)
